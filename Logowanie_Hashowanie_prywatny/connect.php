@@ -1,7 +1,7 @@
 <?php
 
-	$host = "alhost";
+	$host = "localhost";
 	$db_user = "root";
-	$db_password = ";
-	//$db_name = "logowanie888888888888888";
+	$db_password ="";
+	$db_name = "logowanie";
 	?>
